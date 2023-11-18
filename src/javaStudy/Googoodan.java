@@ -1,4 +1,4 @@
-package study;
+package javaStudy;
 
 public class Googoodan {
     public static void main(String[] args) {
@@ -12,4 +12,7 @@ public class Googoodan {
             }
         }
     }
+
+    //작업내용
+
 }
